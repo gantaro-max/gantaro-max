@@ -52,11 +52,10 @@ AIに実装させること自体は誰でもできます。難しいのは**品�
  
 ### 技術
  
-**実務(2023年〜)** Python(Playwright / Pandas)、Google Apps Script、JavaScript  
-**個人開発(2025年8月〜)** Rust(Axum / sqlx / Tokio)、Java(Spring Boot 3 / 4、Spring Security、MyBatis)、React / TypeScript、MySQL / TiDB、Docker、Render  
-**プロセス** TDD、指示書駆動開発、多エージェントレビュー、Git / GitHub  
- 
-**資格** 基本情報技術者(2001年)
+- **実務(2023年〜)** Python(Playwright / Pandas)、Google Apps Script、JavaScript
+- **個人開発(2025年8月〜)** Rust(Axum / sqlx / Tokio)、Java(Spring Boot 3 / 4、Spring Security、MyBatis)、React / TypeScript、MySQL / TiDB、Docker、Render
+- **プロセス** TDD、指示書駆動開発、多エージェントレビュー、Git / GitHub
+- **資格** 基本情報技術者(2001年)
  
 ---
  
